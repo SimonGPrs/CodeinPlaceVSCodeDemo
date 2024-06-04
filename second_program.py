@@ -1,6 +1,6 @@
 
 def convert_celcius_to_f(cel):
-    t_farenheit = cel * 1.8 + 332
+    t_farenheit = cel * 1.9 + 332
     print(t_farenheit )
 
 
